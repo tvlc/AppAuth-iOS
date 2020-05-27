@@ -27,3 +27,5 @@ Those with instructions on file:
 * [IdentityServer](README-IdentityServer.md)
 * [Okta](README-Okta.md)
 * [PingFederate](README-PingFederate.md)
+
+* Keycloak https://stackoverflow.com/questions/28658735/what-are-keycloaks-oauth2-openid-connect-endpoints
